@@ -44,7 +44,7 @@ Here are my top production-grade systems showcasing end-to-end engineering acros
 
 ---
 
-### 4. ✍️ [NeuroText AI &mdash; Deep Learning LSTM Next-Word Prediction & NLP Engine](https://github.com/UMARMUKTHAR03/predictive-text-generator)
+### 4. ✍️ [Predictive Text Generator &mdash; Deep Learning LSTM Next-Word Prediction & NLP Engine](https://github.com/UMARMUKTHAR03/predictive-text-generator)
 > **Domain:** Natural Language Processing (NLP) &bull; Deep Learning &bull; Recurrent Neural Networks (LSTM)  
 > 🌐 **Live Interactive Platform:** [https://umarmukthar03.github.io/predictive-text-generator/](https://umarmukthar03.github.io/predictive-text-generator/)
 
