@@ -35,7 +35,7 @@ Here are my top production-grade systems showcasing end-to-end engineering acros
 
 ---
 
-### 3. 👁️ [OmniVision AI &mdash; Deep Learning Computer Vision & Image Recognition Studio](https://github.com/UMARMUKTHAR03/image-recognition-app)
+### 3. 👁️ [Image Recognition App &mdash; Deep Learning Computer Vision & Image Recognition Studio](https://github.com/UMARMUKTHAR03/image-recognition-app)
 > **Domain:** Deep Learning &bull; Computer Vision &bull; Neural Image Classification  
 > 🌐 **Live Interactive Platform:** [https://umarmukthar03.github.io/image-recognition-app/](https://umarmukthar03.github.io/image-recognition-app/)
 
