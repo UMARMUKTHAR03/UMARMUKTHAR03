@@ -26,7 +26,7 @@ Here are my top production-grade systems showcasing end-to-end engineering acros
 
 ---
 
-### 2. 🤖 [RAG PDFBot &mdash; Enterprise Document Knowledge Engine & PDF AI Chatbot](https://github.com/UMARMUKTHAR03/rag-ai-chatbot)
+### 2. 🤖 [RAG AI Chatbot &mdash; Enterprise Document Knowledge Engine & Assistant](https://github.com/UMARMUKTHAR03/rag-ai-chatbot)
 > **Domain:** Generative AI &bull; Large Language Models &bull; Retrieval-Augmented Generation (RAG)  
 > 🌐 **Live Interactive Platform:** [https://umarmukthar03.github.io/rag-ai-chatbot/](https://umarmukthar03.github.io/rag-ai-chatbot/)
 
