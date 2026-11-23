@@ -53,8 +53,8 @@ Here are my top production-grade systems showcasing end-to-end engineering acros
 
 ---
 
-### 5. 🛍️ [BazaarFlow LUXE &mdash; Next-Gen Full-Stack E-Commerce Monorepo & Luxury Commerce](https://github.com/UMARMUKTHAR03/ecommerce-platform)
-> **Domain:** Enterprise Full-Stack &bull; Monorepo Architecture &bull; Omnichannel Payments  
+### 5. 🛍️ [BazaarFlow LUXE &mdash; Next-Gen Full-Stack E-Commerce Platform](https://github.com/UMARMUKTHAR03/ecommerce-platform)
+> **Domain:** Enterprise Full-Stack  &bull; Omnichannel Payments  
 > 🌐 **Live Interactive Platform:** [https://umarmukthar03.github.io/ecommerce-platform/](https://umarmukthar03.github.io/ecommerce-platform/)
 
 - **Core Stack:** `Next.js 16 (App Router)`, `React 19`, `NestJS`, `TypeScript`, `Stripe Payment Intents`, `Meilisearch`, `Upstash Redis`, `Supabase PostgreSQL`.
